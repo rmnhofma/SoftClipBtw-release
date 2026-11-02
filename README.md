@@ -25,14 +25,14 @@ It runs natively on Linux, with no network access and no telemetry.
 
 ## Install
 
-Download the latest version from the [Releases page](https://github.com/PluginsBTW/SoftClipBtw-release/releases),
+Download the latest version from the [Releases page](https://github.com/rmnhofma/SoftClipBtw-release/releases),
 or with these commands:
 
 ```bash
-curl -LO https://github.com/PluginsBTW/SoftClipBtw-release/releases/download/v0.1.3/SoftClipBtw-0.1.3-linux-x86_64.tar.gz
-curl -LO https://github.com/PluginsBTW/SoftClipBtw-release/releases/download/v0.1.3/SoftClipBtw-0.1.3-linux-x86_64.tar.gz.sha256
-sha256sum -c SoftClipBtw-0.1.3-linux-x86_64.tar.gz.sha256 && tar xzf SoftClipBtw-0.1.3-linux-x86_64.tar.gz
-cd SoftClipBtw-0.1.3-linux-x86_64
+curl -LO https://github.com/rmnhofma/SoftClipBtw-release/releases/download/v0.1.4/SoftClipBtw-0.1.4-linux-x86_64.tar.gz
+curl -LO https://github.com/rmnhofma/SoftClipBtw-release/releases/download/v0.1.4/SoftClipBtw-0.1.4-linux-x86_64.tar.gz.sha256
+sha256sum -c SoftClipBtw-0.1.4-linux-x86_64.tar.gz.sha256 && tar xzf SoftClipBtw-0.1.4-linux-x86_64.tar.gz
+cd SoftClipBtw-0.1.4-linux-x86_64
 ```
 
 Install for your user:

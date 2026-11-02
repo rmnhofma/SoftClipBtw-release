@@ -2,7 +2,7 @@
 
 **A soft clipper for Linux with 2x to 16x oversampling, AUTO GAIN and a live scope.**
 
-Version 0.1.3. To install it, see the [README](README.md).
+Version 0.1.4. To install it, see the [README](README.md).
 
 ## Getting started
 
