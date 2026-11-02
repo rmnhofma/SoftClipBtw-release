@@ -2,7 +2,7 @@
 
 **A soft clipper for Linux with 2x to 16x oversampling, AUTO GAIN and a live scope.**
 
-Version 0.1.4. To install it, see the [README](README.md).
+Version 0.1.5. To install it, see the [README](README.md).
 
 ## Getting started
 
@@ -31,7 +31,7 @@ Version 0.1.4. To install it, see the [README](README.md).
 reset it. Every control is also a host parameter you can automate.
 
 Double-click the scope to reset the ceiling. The version is in the bottom-right corner, and clicking
-the logo opens this page.
+the logo opens [the plugin's page](https://rmnhofma.github.io/plugins/softclipbtw/).
 
 ## How to use it
 
