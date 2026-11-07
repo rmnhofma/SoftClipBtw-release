@@ -1,5 +1,8 @@
 # SoftClipBtw
 
+> **Discontinued** since 7 Nov 2026: SoftClipBtw gets no new releases. v0.1.5, the last one, stays
+> here to download and keeps working.
+
 **A soft clipper for Linux with 2x to 16x oversampling, AUTO GAIN and a live scope.**
 CLAP and VST3 for Linux.
 
